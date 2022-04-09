@@ -1,39 +1,63 @@
 export let months = [
-{month: 'janeiro',
-    color: ''
+{ 
+    month: 'janeiro',
+    color: 'amarelo',
+    days:31
 },
-{month: 'Fervereiro',
-color: ''
+{ 
+    month: 'Fervereiro',
+    color: 'roxo',
+    days:28
 },
-{month: 'Março',
-color: ''
+{ 
+    month: 'Março',
+    color: 'verde',
+    days:31
 },
-{month: 'Abril',
-color: ''
+{ 
+    month: 'Abril',
+    color: 'beje',
+    days:30
 },
-{month: 'Maio,'
-color: ''
+{ 
+    month: 'Maio',
+    color: 'vermelho',
+    days:31
 },
-{month: 'Junho',
-color: ''
+{ 
+    month: 'Junho',
+    color: 'marron',
+    days: 30
 },
-{month: 'Julho',
-color: ''
+{ 
+    month: 'Julho',
+    color: 'laranja',
+    days: 31
 },
-{month: 'Agosto',
-color: ''
+{ 
+    month: 'Agosto',
+    color: 'cinza',
+    days: 31
 },
-{month: 'setembro',
-color: ''
+{ 
+    month: 'setembro',
+    color: '',
+    days: 30
 },
-{month: 'Outubro',
-color: ''
+{ 
+    month: 'Outubro',
+    color: 'azul',
+    days: 31
 },
-{month: 'Novembro',
-color: ''
+{ 
+    month: 'Novembro',
+    color: 'rosa',
+    days: 31
 },
-{month: 'Dezembro'
-color: ''
+{ 
+    month: 'Dezembro',
+    color: 'branco',
+    days: 31
 }
 ]
 
