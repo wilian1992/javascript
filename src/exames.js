@@ -1,3 +1,3 @@
 import months from './months.js'
 
-document.getElementById('main').innerHtml = months
+document.getElementById('main').innerHTML = month
