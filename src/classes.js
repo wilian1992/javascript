@@ -25,7 +25,8 @@ class Cachoro extends Animal{
 
 }
 
-const cachoro = new Cachorro('cachorro')
-cachoro.falar()
-cachoro.comer()
-cachoro.dormir()
+
+
+
+
+export default Cachoro
